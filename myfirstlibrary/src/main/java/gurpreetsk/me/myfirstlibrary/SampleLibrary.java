@@ -17,7 +17,7 @@ public class SampleLibrary {
     }
 
     public void makeToast(Context context, String details){
-        Toast.makeText(context, "Awesome "+details, Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, "Awesome! "+details, Toast.LENGTH_SHORT).show();
     }
 
 
